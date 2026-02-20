@@ -1,0 +1,5 @@
+python is the language shich we can use it in every filed
+like 
+game developing
+backend
+and most used in datascience and machine learning
